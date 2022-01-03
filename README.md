@@ -1,2 +1,2 @@
 # Anime-Recommendation
-Item-Based (Rating_
+Item-Based (Rating)
